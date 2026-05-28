@@ -1,5 +1,7 @@
 # ten-rules skill
 
+Live: https://cskwork.github.io/ten-rules-skill/
+
 A single Claude Code (and Codex/Gemini-compatible) skill that **routes a task to the right "10 rules"
 reference set, reads only the rules that apply, and works against their checklists** — instead of you
 remembering which standard to follow.
