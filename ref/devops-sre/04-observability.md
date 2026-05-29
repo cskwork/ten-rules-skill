@@ -5,7 +5,7 @@
 
 ## Why
 
-You cannot operate, debug, or set an SLO for a system you cannot see. Observability is the property of being able to ask new questions of a running system without shipping new code, built on the three pillars: metrics, logs, and traces. The Google SRE Book ties monitoring directly to SLOs, and OpenTelemetry is now the vendor-neutral standard for emitting this telemetry, so instrumentation is no longer optional plumbing.
+You cannot operate, debug, or set an SLO for a system you cannot see. Observability is the property of being able to ask new questions of a running system without shipping new code. The traditional three pillars are metrics, logs, and traces; OpenTelemetry now formally supports continuous profiling as a fourth signal. OpenTelemetry is the vendor-neutral standard for emitting all of this telemetry, and the Google SRE Book ties monitoring directly to SLOs, so instrumentation is no longer optional plumbing.
 
 ## How to apply
 

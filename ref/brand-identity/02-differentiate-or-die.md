@@ -24,5 +24,4 @@ Marty Neumeier (Zag) argues that radical differentiation, not incremental better
 
 ## References
 
-- Marty Neumeier — https://www.martyneumeier.com/zag
-- Marty Neumeier — https://www.martyneumeier.com/
+- Marty Neumeier, Zag — https://www.martyneumeier.com/zag

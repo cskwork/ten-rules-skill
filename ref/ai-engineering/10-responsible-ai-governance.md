@@ -5,7 +5,7 @@
 
 ## Why
 
-AI systems carry risks of bias, privacy harm, and misuse that purely technical metrics miss, and accountability cannot be retrofitted. The NIST AI RMF "Govern" function makes risk management an organizational practice, and model cards (Mitchell et al.) standardize transparent disclosure of intended use, limitations, and evaluation. Responsible AI is the durable license to operate.
+AI systems carry risks of bias, privacy harm, and misuse that purely technical metrics miss, and accountability cannot be retrofitted. The NIST AI RMF "Govern" function makes risk management an organizational practice, and model cards (Mitchell et al.) standardize transparent disclosure of intended use, limitations, and evaluation. As of 2024–2025, NIST has expanded the framework with the Generative AI Profile (NIST AI 600-1) and sector-specific guidance, making the framework more actionable across domains. Responsible AI is the durable license to operate.
 
 ## How to apply
 
@@ -14,7 +14,7 @@ AI systems carry risks of bias, privacy harm, and misuse that purely technical m
 - Define data governance: consent, retention, PII handling, and the right to deletion.
 - Assign clear ownership and an incident path for AI failures and harms.
 - Disclose AI involvement to end users where it affects their decisions or rights.
-- Review against applicable regulation and the NIST Govern/Map/Measure/Manage functions.
+- Review against applicable regulation and the NIST Govern/Map/Measure/Manage functions; use the NIST AI 600-1 Generative AI Profile where relevant.
 
 ## Checklist
 
@@ -26,4 +26,5 @@ AI systems carry risks of bias, privacy harm, and misuse that purely technical m
 ## References
 
 - NIST AI Risk Management Framework — https://www.nist.gov/itl/ai-risk-management-framework
+- NIST AI 600-1, Generative AI Profile — https://airc.nist.gov/Docs/1
 - Mitchell et al., Model Cards for Model Reporting — https://arxiv.org/abs/1810.03993

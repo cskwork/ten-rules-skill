@@ -26,5 +26,5 @@ Least privilege and fail-safe defaults are two of Saltzer and Schroeder's founda
 
 ## References
 
-- Saltzer & Schroeder, "The Protection of Information in Computer Systems" — https://web.mit.edu/Saltzer/www/publications/protection/
-- OWASP Cheat Sheet Series (Authorization) — https://cheatsheetseries.owasp.org/
+- Saltzer & Schroeder, "The Protection of Information in Computer Systems," Proceedings of the IEEE, 63(9):1278-1308, 1975 — https://web.mit.edu/Saltzer/www/publications/protection/Basic.html
+- OWASP Cheat Sheet Series (Authorization) — https://cheatsheetseries.owasp.org/cheatsheets/Authorization_Cheat_Sheet.html

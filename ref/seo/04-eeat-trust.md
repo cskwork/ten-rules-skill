@@ -25,5 +25,5 @@ The Google Search Quality Rater Guidelines evaluate pages by E-E-A-T — Experie
 
 ## References
 
-- Google Search Quality Rater Guidelines (overview) — https://services.google.com/fh/files/misc/hsw-sqrg.pdf
+- Google Search Quality Rater Guidelines (overview) — https://developers.google.com/search/blog/2022/12/google-raters-guidelines-e-e-a-t
 - Google Search Central — https://developers.google.com/search/docs/fundamentals/creating-helpful-content

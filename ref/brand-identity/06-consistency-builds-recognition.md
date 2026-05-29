@@ -24,5 +24,5 @@ Recognition is the cumulative result of repeated, consistent exposure to the sam
 
 ## References
 
-- Ehrenberg-Bass Institute — https://www.marketingscience.info/
-- David Aaker — https://prophet.com/thinking/aaker/
+- Ehrenberg-Bass Institute — https://marketingscience.info/
+- David Aaker, Building Strong Brands — https://prophet.com/thinking/aaker/

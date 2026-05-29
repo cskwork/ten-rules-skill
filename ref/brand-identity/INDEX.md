@@ -1,6 +1,6 @@
 # Brand Identity — 10 Rules (index)
 
-Source: market-researched synthesis grounded in Marty Neumeier (The Brand Gap, Zag), Byron Sharp / Ehrenberg-Bass (How Brands Grow), David Aaker (brand equity), and Simon Sinek (Start With Why). Brand identity is the discipline of building a distinctive, memorable, consistently expressed brand from strategy through verbal and visual systems.
+Source: market-researched synthesis grounded in Marty Neumeier (The Brand Gap, Zag), Byron Sharp / Ehrenberg-Bass (How Brands Grow), Jenni Romaniuk / Ehrenberg-Bass (Building Distinctive Brand Assets), David Aaker (brand equity), and Simon Sinek (Start With Why). Brand identity is the discipline of building a distinctive, memorable, consistently expressed brand from strategy through verbal and visual systems.
 
 Pick the rules that bear on the task, then open those files for the full Why / How / Checklist.
 

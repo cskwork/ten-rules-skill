@@ -24,5 +24,5 @@ Premature scaling is the most common cause of startup death; spend amplifies a p
 
 ## References
 
-- Sean Ellis / Pmfsurvey — https://pmfsurvey.com/
+- Sean Ellis / GoPractice, PMF Survey tool — https://pmfsurvey.com/
 - GrowthHackers — https://growthhackers.com/

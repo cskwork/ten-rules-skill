@@ -26,4 +26,4 @@ Transparency is part of GDPR Article 5's first principle and is detailed in Arti
 ## References
 
 - GDPR Articles 13 and 14 information to be provided — https://gdpr-info.eu/art-13-gdpr/
-- Privacy by Design, 7 Foundational Principles (Ann Cavoukian) — https://gpsbydesigncentre.com/the-seven-foundational-principles/
+- Privacy by Design: The 7 Foundational Principles (Ann Cavoukian, IPC Ontario) — https://www.ipc.on.ca/wp-content/uploads/Resources/7foundationalprinciples.pdf

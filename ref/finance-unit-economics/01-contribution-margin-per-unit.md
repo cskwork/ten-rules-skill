@@ -25,5 +25,5 @@ Unit economics begins with one number: revenue per unit minus the variable costs
 
 ## References
 
-- Corporate Finance Institute — https://corporatefinanceinstitute.com/
+- Corporate Finance Institute, "Contribution Margin" — https://corporatefinanceinstitute.com/resources/accounting/contribution-margin/
 - forEntrepreneurs (David Skok) — https://www.forentrepreneurs.com/saas/

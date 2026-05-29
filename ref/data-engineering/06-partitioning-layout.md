@@ -13,8 +13,9 @@ Partitioning is the highest-leverage performance and cost decision in a warehous
 - Match partition granularity to query and backfill needs; avoid over-partitioning into tiny fragments.
 - Pick partition keys that let a backfill overwrite exactly one logical slice at a time.
 - Compact small files and target reasonable file sizes (often hundreds of MB) for columnar formats.
+- Prefer Apache Iceberg's hidden partitioning (transform functions such as `day(ts)`) so partition values are derived automatically and partition evolution does not require rewriting existing files.
 - Add clustering/bucketing or sort keys for secondary high-cardinality filters within partitions.
-- Push partition pruning down: ensure queries filter on the partition column, not a derived expression.
+- For Hive-partitioned tables, ensure queries filter on the partition column directly, not a derived expression. In Iceberg (hidden partitioning) the engine prunes automatically; still verify via EXPLAIN that pruning is applied.
 
 ## Checklist
 
@@ -22,7 +23,7 @@ Partitioning is the highest-leverage performance and cost decision in a warehous
 - [ ] Partition granularity avoids both full scans and tiny-file sprawl
 - [ ] A backfill rewrites only the targeted partitions
 - [ ] Output file sizes are compacted to a healthy range
-- [ ] Common queries demonstrably prune partitions
+- [ ] Partition pruning is confirmed via EXPLAIN (automatic in Iceberg hidden-partition tables; manual filter required for Hive-style)
 
 ## References
 
