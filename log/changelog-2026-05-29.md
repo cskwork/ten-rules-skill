@@ -72,3 +72,14 @@ Each set: `INDEX.md` + 10 prioritized rule files (Why / How to apply / Checklist
 - `SKILL.md` — routing table (Core + Builder stack), description, notes, source repos
 - `README.md` — domain table split into vendored core + in-repo builder stack
 - `docs/index.html` — router chips, hero/meta copy, "Builder stack" compact card section, CSS
+
+## Follow-up: expandable "why" on the 12 builder-stack cards
+
+User feedback: the new compact cards only showed rule titles; the featured 5 cards expand
+a "why" on click. Added the same click-to-expand to all 12 builder-stack cards — each of the
+120 rules now opens a one-to-two-sentence bilingual explanation, condensed from that rule
+file's `## Why` section and citing the same authority. Mirrored the featured cards'
+`<details>/<summary>` markup and `+`/`−` affordance with a compact-sized `.crules` CSS variant;
+removed the now-dead `.crules li::before` rules. Verified: 12 cards × 10 `<details>` = 120, every
+summary and why carries `data-ko`, no leftover plain `<li>`, featured 5 cards' 50 rules untouched,
+no emojis, HTML balanced.
