@@ -24,5 +24,5 @@ Sculley et al., "Hidden Technical Debt in Machine Learning Systems" (NeurIPS 201
 
 ## References
 
-- Sculley et al. 2015, Hidden Technical Debt in ML Systems — https://papers.nips.cc/paper_files/paper/2015/hash/86df7dcfd896fcaf2674f757a2463eba-Abstract.html
+- Sculley et al. 2015, Hidden Technical Debt in ML Systems — https://proceedings.neurips.cc/paper_files/paper/2015/hash/86df7dcfd896fcaf2674f757a2463eba-Abstract.html
 - Google Rules of Machine Learning — https://developers.google.com/machine-learning/guides/rules-of-ml

@@ -5,7 +5,7 @@
 
 ## Why
 
-OWASP Top 10 (2021) added A04 Insecure Design specifically to stress that flaws baked into the design cannot be patched away later. STRIDE (Microsoft) gives a structured way to enumerate threats: Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service, Elevation of Privilege. NIST SSDF (SP 800-218) frames secure development as practices spanning the whole lifecycle, not a final gate.
+OWASP Top 10 added Insecure Design as A04 (2021) specifically to stress that flaws baked into the design cannot be patched away later. STRIDE (Microsoft) gives a structured way to enumerate threats: Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service, Elevation of Privilege. NIST SSDF (SP 800-218) frames secure development as practices spanning the whole lifecycle, not a final gate.
 
 ## How to apply
 
@@ -26,6 +26,6 @@ OWASP Top 10 (2021) added A04 Insecure Design specifically to stress that flaws 
 
 ## References
 
-- OWASP Top 10 (2021), A04 Insecure Design — https://owasp.org/Top10/2021/A04_2021-Insecure_Design/
+- OWASP Top 10, A04 Insecure Design — https://owasp.org/www-project-top-ten/
 - NIST SSDF SP 800-218 — https://csrc.nist.gov/projects/ssdf
 - OWASP ASVS — https://owasp.org/www-project-application-security-verification-standard/

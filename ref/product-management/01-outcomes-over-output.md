@@ -26,4 +26,4 @@ Shipping is the cost, not the goal. Marty Cagan and SVPG define the modern produ
 ## References
 
 - Silicon Valley Product Group — https://www.svpg.com/
-- Amplitude North Star Playbook — https://amplitude.com/books/north-star
+- Amplitude — North Star Playbook — https://amplitude.com/north-star

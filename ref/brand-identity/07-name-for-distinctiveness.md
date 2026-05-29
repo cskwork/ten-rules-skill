@@ -24,5 +24,5 @@ Marty Neumeier (The Brand Gap) argues a strong name is distinctive, short, easy 
 
 ## References
 
-- Marty Neumeier — https://www.martyneumeier.com/the-brand-gap
-- Ehrenberg-Bass Institute — https://www.marketingscience.info/
+- Marty Neumeier, The Brand Gap — https://www.martyneumeier.com/the-brand-gap
+- Ehrenberg-Bass Institute — https://marketingscience.info/

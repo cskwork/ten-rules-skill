@@ -25,5 +25,5 @@ Privacy by Design, Ann Cavoukian's seven foundational principles, is now embedde
 
 ## References
 
-- Privacy by Design, 7 Foundational Principles (Ann Cavoukian) — https://gpsbydesigncentre.com/the-seven-foundational-principles/
+- Privacy by Design: The 7 Foundational Principles (Ann Cavoukian, IPC Ontario) — https://www.ipc.on.ca/wp-content/uploads/Resources/7foundationalprinciples.pdf
 - GDPR Article 25 data protection by design — https://gdpr-info.eu/art-25-gdpr/

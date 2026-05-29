@@ -11,7 +11,7 @@ Most companies die when they run out of cash, not when they run out of ideas. Ru
 
 - Compute net burn as monthly cash outflows minus cash inflows; also track gross burn for the worst case.
 - Compute runway as cash divided by net burn, in months, and refresh it monthly.
-- Start fundraising while at least 6 to 12 months of runway remain, not when nearly empty.
+- Start fundraising while at least 12 to 18 months of runway remain; fundraise processes now routinely take 6 to 9 months, and starting with less than 12 months leaves no margin for a slow round.
 - Stress-test runway against slower growth, worse retention, and missed collections.
 - Tie burn to milestones: spend should buy progress that justifies the next raise.
 

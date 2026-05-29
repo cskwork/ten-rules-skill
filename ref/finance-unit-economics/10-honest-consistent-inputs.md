@@ -26,4 +26,4 @@ Unit-economics metrics are only as trustworthy as their definitions, and the sam
 ## References
 
 - forEntrepreneurs (David Skok) — https://www.forentrepreneurs.com/saas-metrics-2-definitions-2/
-- Bessemer Venture Partners, cloud metrics — https://www.bvp.com/atlas/cloud-computing-metrics
+- Bessemer Venture Partners Atlas — https://www.bvp.com/atlas

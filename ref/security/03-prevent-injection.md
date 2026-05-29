@@ -5,7 +5,7 @@
 
 ## Why
 
-Injection (SQL, NoSQL, OS command, LDAP, template) is ranked #3 in the OWASP Top 10 (2021); 94% of tested applications showed some form. The root cause is always the same: an interpreter cannot tell attacker data from intended code when the two are concatenated. Parameterization removes the ambiguity structurally.
+Injection (SQL, NoSQL, OS command, LDAP, template) is ranked #3 in the OWASP Top 10 (2021); improved framework defaults have reduced its prevalence but not its real-world severity. 94% of tested applications showed some form of injection weakness. The root cause is always the same: an interpreter cannot tell attacker data from intended code when the two are concatenated. Parameterization removes the ambiguity structurally.
 
 ## How to apply
 
@@ -26,5 +26,5 @@ Injection (SQL, NoSQL, OS command, LDAP, template) is ranked #3 in the OWASP Top
 
 ## References
 
-- OWASP Top 10 (2021), A03 Injection — https://owasp.org/Top10/2021/A03_2021-Injection/
-- OWASP Cheat Sheet Series (SQL Injection Prevention) — https://cheatsheetseries.owasp.org/
+- OWASP Top 10, A03 Injection — https://owasp.org/www-project-top-ten/
+- OWASP Cheat Sheet Series (SQL Injection Prevention) — https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html

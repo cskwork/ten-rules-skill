@@ -26,5 +26,5 @@ Identification and Authentication Failures rank #7 in the OWASP Top 10 (2021). W
 
 ## References
 
-- OWASP Top 10 (2021), A07 Identification and Authentication Failures — https://owasp.org/Top10/2021/A07_2021-Identification_and_Authentication_Failures/
-- OWASP Cheat Sheet Series (Authentication, Password Storage) — https://cheatsheetseries.owasp.org/
+- OWASP Top 10, A07 Identification and Authentication Failures — https://owasp.org/www-project-top-ten/
+- OWASP Cheat Sheet Series (Authentication, Password Storage) — https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html

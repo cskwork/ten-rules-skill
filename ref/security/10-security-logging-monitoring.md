@@ -26,5 +26,5 @@ Security Logging and Monitoring Failures rank #9 in the OWASP Top 10 (2021). Wit
 
 ## References
 
-- OWASP Top 10 (2021), A09 Security Logging and Monitoring Failures — https://owasp.org/Top10/2021/A09_2021-Security_Logging_and_Monitoring_Failures/
+- OWASP Top 10, A09 Security Logging and Monitoring Failures — https://owasp.org/www-project-top-ten/
 - NIST SSDF SP 800-218 — https://csrc.nist.gov/projects/ssdf

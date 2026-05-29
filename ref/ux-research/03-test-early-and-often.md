@@ -5,7 +5,7 @@
 
 ## Why
 
-Nielsen Norman Group's "Why You Only Need to Test with 5 Users" shows that five participants surface roughly 85% of usability problems, so running three small tests reveals more than one large one. Steve Krug's "rocket surgery" approach makes testing cheap enough to do monthly. Catching issues before code ships is dramatically cheaper than after launch.
+Nielsen Norman Group's "Why You Only Need to Test with 5 Users" shows that five participants can surface roughly 85% of the most evident usability problems (assuming each problem has a high chance of being seen in a session), so running three small tests reveals more than one large one. Steve Krug's "rocket surgery" approach makes testing cheap enough to do monthly. Catching issues before code ships is dramatically cheaper than after launch.
 
 ## How to apply
 
@@ -25,4 +25,4 @@ Nielsen Norman Group's "Why You Only Need to Test with 5 Users" shows that five 
 ## References
 
 - Nielsen Norman Group, Why You Only Need to Test with 5 Users — https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/
-- Steve Krug, Rocket Surgery Made Easy — https://sensible.com/
+- Steve Krug, Rocket Surgery Made Easy — https://sensible.com/rocket-surgery-made-easy/

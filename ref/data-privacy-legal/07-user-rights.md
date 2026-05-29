@@ -5,7 +5,7 @@
 
 ## Why
 
-GDPR Chapter 3, CCPA/CPRA, and Korea PIPA all grant individuals enforceable rights to access, correct, delete, and port their personal data, generally within a fixed deadline (GDPR: one month). These rights are what make the other principles real to the user. Failing to fulfill them on time is directly enforceable and a common source of complaints.
+GDPR Chapter 3, CCPA/CPRA, and Korea PIPA all grant individuals enforceable rights to access, correct, delete, and port their personal data, generally within a fixed deadline (GDPR: one month; Korea PIPA: portability right effective March 2025, allowing individuals to request transfer of data to another provider). These rights are what make the other principles real to the user. Failing to fulfill them on time is directly enforceable and a common source of complaints.
 
 ## How to apply
 
@@ -27,3 +27,4 @@ GDPR Chapter 3, CCPA/CPRA, and Korea PIPA all grant individuals enforceable righ
 
 - GDPR Chapter 3 rights of the data subject — https://gdpr-info.eu/chapter-3/
 - California CCPA/CPRA (CPPA) — https://cppa.ca.gov/
+- Korea Personal Information Protection Commission (PIPC) — https://www.pipc.go.kr/eng/

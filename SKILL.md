@@ -1,12 +1,13 @@
 ---
 name: ten-rules
-description: Routes a task to the matching "10 rules" reference set, reads only the rules that bear on it, and works against their checklists. Covers web-design, communication, investment, planning, coding, api-design, data-engineering, security, devops-sre, ai-engineering, product-management, ux-research, growth-marketing, seo, finance-unit-economics, brand-identity, and data-privacy-legal. Use when work in any of these should meet a defined standard, or the user says "apply the 10 rules" / names a set. Index: https://cskwork.github.io/ten-rules-skill/
+description: Routes a task to the matching "10 rules" reference set, reads only the rules that bear on it, and works against their checklists. Covers 17 cross-cutting disciplines (web-design, communication, investment, planning, coding, api-design, data-engineering, security, devops-sre, ai-engineering, product-management, ux-research, growth-marketing, seo, finance-unit-economics, brand-identity, data-privacy-legal) plus 22 industry verticals for building sites or software in a specific industry (e-commerce, edtech, media-streaming, gaming, social, enterprise-data, manufacturing, logistics, b2b-saas, iot, energy, fintech, healthcare, insurance, govtech, travel/aviation, martech, proptech, mobility, telecom, hrtech, nonprofit). Use when work in any of these should meet a defined standard, or the user says "apply the 10 rules" / names a set. Index: https://cskwork.github.io/ten-rules-skill/
 ---
 
 # Ten Rules
 
-A router over seventeen "10 rules" reference sets in `ref/`. Before doing the work, load the
-rules that match the task, apply their checklists, then execute — do not skip straight to output.
+A router over thirty-nine "10 rules" reference sets in `ref/` — seventeen cross-cutting disciplines
+plus twenty-two industry verticals. Before doing the work, load the rules that match the task, apply
+their checklists, then execute — do not skip straight to output.
 
 ## 1. Route the task
 
@@ -40,6 +41,35 @@ ai-engineering + web-design + growth-marketing), load each one's index.
 | brand, positioning, naming, logo, voice/tone, visual identity, differentiation | **brand-identity** | `ref/brand-identity/INDEX.md` |
 | privacy, GDPR/PIPA/CCPA, consent, personal data, retention/deletion, DSAR, data residency | **data-privacy-legal** | `ref/data-privacy-legal/INDEX.md` |
 
+**Industry verticals** — building a site or software for a specific industry. Layer these on top of
+the disciplines above (e.g. an online pharmacy = ecommerce-retail + healthcare-digital-health +
+data-privacy-legal; a Palantir-style tool = enterprise-data-platform + security + b2b-saas).
+
+| Task signals | Domain | Open first |
+|---|---|---|
+| online store, shopping mall, marketplace, cart, checkout, product catalog, storefront (Amazon/Coupang/Shopify) | **ecommerce-retail** | `ref/ecommerce-retail/INDEX.md` |
+| course platform, LMS, e-learning, quizzes, student data, edtech | **edtech-learning** | `ref/edtech-learning/INDEX.md` |
+| video/audio streaming, OTT, subscriptions, content catalog, playback, recommendations | **media-streaming** | `ref/media-streaming/INDEX.md` |
+| game backend, live-ops, matchmaking, player retention, in-game economy, anti-cheat | **gaming-liveops** | `ref/gaming-liveops/INDEX.md` |
+| social network, feed, UGC, community, moderation, trust & safety, network effects | **social-community** | `ref/social-community/INDEX.md` |
+| internal data platform, ontology, B2B analytics, enterprise RBAC, data governance (Palantir-style) | **enterprise-data-platform** | `ref/enterprise-data-platform/INDEX.md` |
+| smart factory, MES, industrial IoT, OT/IT, ISA-95, digital twin, semiconductor fab (Hynix-style) | **manufacturing-industrial** | `ref/manufacturing-industrial/INDEX.md` |
+| logistics, supply chain, fulfillment, WMS/TMS, last-mile, shipment tracking | **logistics-supply-chain** | `ref/logistics-supply-chain/INDEX.md` |
+| multi-tenant SaaS, B2B app, SSO/SCIM, seat billing, enterprise readiness, SOC 2 | **b2b-saas** | `ref/b2b-saas/INDEX.md` |
+| IoT, connected devices, telemetry, MQTT, OTA updates, device fleet, edge | **iot-connected-devices** | `ref/iot-connected-devices/INDEX.md` |
+| smart grid, utility billing, metering, energy, ESG/sustainability reporting | **energy-utilities** | `ref/energy-utilities/INDEX.md` |
+| banking, payments, neobank, wallet, ledger, KYC/AML, PCI, open banking (Toss/Stripe-style) | **fintech-banking** | `ref/fintech-banking/INDEX.md` |
+| telemedicine, EHR, patient portal, FHIR, HIPAA, digital health | **healthcare-digital-health** | `ref/healthcare-digital-health/INDEX.md` |
+| insurance, claims, underwriting, policy admin, insurtech | **insurance-insurtech** | `ref/insurance-insurtech/INDEX.md` |
+| government, public sector, citizen services, accessibility/Section 508, gov.uk service standard, digital identity | **govtech-public-sector** | `ref/govtech-public-sector/INDEX.md` |
+| airport, airline, hotel, booking, reservation, OTA, flight ops, travel (IATA/NDC) | **travel-hospitality-aviation** | `ref/travel-hospitality-aviation/INDEX.md` |
+| marketing platform, CDP, ad server, attribution, campaign, consent/TCF, adtech | **martech-adtech** | `ref/martech-adtech/INDEX.md` |
+| real estate, property listings, MLS, proptech, virtual tours, transactions | **real-estate-proptech** | `ref/real-estate-proptech/INDEX.md` |
+| ride-hailing, transit app, mapping/routing, EV charging, dispatch, mobility (Uber-style) | **mobility-transportation** | `ref/mobility-transportation/INDEX.md` |
+| telecom, carrier, OSS/BSS, 5G, billing/charging, TM Forum | **telecom-connectivity** | `ref/telecom-connectivity/INDEX.md` |
+| HR, recruiting, ATS, hiring, HRIS, candidate experience, hrtech | **hrtech-recruiting** | `ref/hrtech-recruiting/INDEX.md` |
+| nonprofit, charity, donations, fundraising, NGO, civic platform | **nonprofit-civic** | `ref/nonprofit-civic/INDEX.md` |
+
 No domain matches → this skill does not apply; proceed normally.
 
 ## 2. Apply (same for every domain)
@@ -58,8 +88,8 @@ No domain matches → this skill does not apply; proceed normally.
 - **coding** duplicates the Ten Commandments already in `~/.claude/CLAUDE.md`. Skip it unless the
   user explicitly asks, or you are running outside Claude Code (e.g. Codex/Gemini) without those rules.
 - The five core sets are vendored snapshots of upstream repos — refresh with `scripts/refresh.sh`.
-  The twelve builder-stack sets are authored in-repo from the authorities cited in each rule's
-  References; `refresh.sh` does not touch them.
+  The twelve builder-stack sets and the twenty-two industry verticals are authored in-repo from the
+  authorities cited in each rule's References; `refresh.sh` does not touch them.
 
 ## Source repos
 
@@ -70,3 +100,12 @@ Builder stack — api-design · data-engineering · security · devops-sre · ai
 product-management · ux-research · growth-marketing · seo · finance-unit-economics ·
 brand-identity · data-privacy-legal — authored in-repo from recognized authorities (OWASP, Google
 SRE/AIP, NIST, Kimball, Nielsen Norman, GDPR, et al.) cited in each rule's References.
+
+Industry verticals — ecommerce-retail · edtech-learning · media-streaming · gaming-liveops ·
+social-community · enterprise-data-platform · manufacturing-industrial · logistics-supply-chain ·
+b2b-saas · iot-connected-devices · energy-utilities · fintech-banking · healthcare-digital-health ·
+insurance-insurtech · govtech-public-sector · travel-hospitality-aviation · martech-adtech ·
+real-estate-proptech · mobility-transportation · telecom-connectivity · hrtech-recruiting ·
+nonprofit-civic — authored in-repo from each industry's recognized books and standards (Baymard,
+Mayer, Kleppmann, ISA-95, HL7 FHIR, PCI-DSS, IATA NDC, GOV.UK Service Standard, et al.) cited in
+each rule's References.

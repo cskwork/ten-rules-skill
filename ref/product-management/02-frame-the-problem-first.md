@@ -25,5 +25,5 @@ Most failed products solve a problem no one has, or solve a real problem for the
 
 ## References
 
-- The Lean Startup (Eric Ries) — http://theleanstartup.com/
+- The Lean Startup (Eric Ries) — https://theleanstartup.com/
 - Silicon Valley Product Group — https://www.svpg.com/

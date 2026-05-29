@@ -24,5 +24,5 @@ Simon Sinek (Start With Why) shows that durable brands lead with purpose: the wh
 
 ## References
 
-- Simon Sinek — https://simonsinek.com/golden-circle/
-- Simon Sinek — https://simonsinek.com/books/start-with-why/
+- Simon Sinek, Start With Why — https://simonsinek.com/books/start-with-why
+- Simon Sinek, The Golden Circle — https://simonsinek.com/golden-circle

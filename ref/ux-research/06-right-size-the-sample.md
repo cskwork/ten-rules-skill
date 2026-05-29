@@ -5,7 +5,7 @@
 
 ## Why
 
-Nielsen Norman Group's research shows ~5 users are enough for a qualitative usability test because each finds many of the same issues, while quantitative studies need far larger samples (NN/G suggests around 40+) to reach statistical confidence. Using 5 users to compute metrics, or 40 to run an exploratory diagnostic, wastes effort and misleads. The number is a consequence of the goal, not a default.
+Nielsen Norman Group's research shows ~5 users are enough for a qualitative usability test because each finds many of the same issues, while quantitative studies need far larger samples (NN/G recommends approximately 40 participants for a 15% margin of error at 95% confidence) to reach statistical confidence. Using 5 users to compute metrics, or 40 to run an exploratory diagnostic, wastes effort and misleads. The number is a consequence of the goal, not a default.
 
 ## How to apply
 
@@ -25,4 +25,4 @@ Nielsen Norman Group's research shows ~5 users are enough for a qualitative usab
 ## References
 
 - Nielsen Norman Group, Why You Only Need to Test with 5 Users — https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/
-- Nielsen Norman Group, Quantitative vs. Qualitative Sample Size — https://www.nngroup.com/articles/quant-vs-qual/
+- Nielsen Norman Group, How Many Participants for Quantitative Usability Studies — https://www.nngroup.com/articles/summary-quant-sample-sizes/

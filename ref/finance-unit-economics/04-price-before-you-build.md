@@ -25,5 +25,5 @@ Madhavan Ramanujam's Monetizing Innovation argues the most common cause of new-p
 
 ## References
 
-- Monetizing Innovation (Ramanujam and Tacke) — https://www.simon-kucher.com/en/insights/monetizing-innovation
+- Monetizing Innovation (Ramanujam and Tacke, Wiley 2016) — https://www.wiley.com/en-us/Monetizing+Innovation-p-9781119240860
 - First Round Review, "Price Before Product" — https://review.firstround.com/its-price-before-product-period/

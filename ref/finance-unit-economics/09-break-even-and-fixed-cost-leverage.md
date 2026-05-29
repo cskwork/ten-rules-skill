@@ -25,5 +25,5 @@ Break-even analysis answers how much you must sell to stop losing money: fixed c
 
 ## References
 
-- Corporate Finance Institute — https://corporatefinanceinstitute.com/
+- Corporate Finance Institute, "Break-Even Analysis" — https://corporatefinanceinstitute.com/resources/accounting/break-even-analysis/
 - forEntrepreneurs (David Skok) — https://www.forentrepreneurs.com/saas/

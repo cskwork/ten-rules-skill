@@ -25,4 +25,4 @@ ISO 9241-11 ties usability to specified users in a specified context, so testing
 ## References
 
 - ISO 9241-11 (Usability: definitions and concepts) — https://www.iso.org/standard/63500.html
-- Nielsen Norman Group, Recruiting Test Participants — https://www.nngroup.com/articles/recruiting-test-participants-user-testing/
+- Nielsen Norman Group, Usability Testing 101 — https://www.nngroup.com/articles/usability-testing-101/

@@ -26,4 +26,4 @@ The model is an untrusted component embedded in your trusted system; its inputs 
 ## References
 
 - NIST AI Risk Management Framework — https://www.nist.gov/itl/ai-risk-management-framework
-- OWASP Top 10 for LLM Applications — https://owasp.org/www-project-top-10-for-large-language-model-applications/
+- OWASP Top 10 for LLM Applications 2025 — https://genai.owasp.org/llm-top-10/

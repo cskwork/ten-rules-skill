@@ -25,5 +25,5 @@ Amplitude's North Star Framework centers a team on a single metric that captures
 
 ## References
 
-- Amplitude — North Star Framework — https://amplitude.com/books/north-star
-- Amplitude — North Star Playbook — https://amplitude.com/resources/north-star-playbook
+- Amplitude — North Star Playbook — https://amplitude.com/north-star
+- Sean Ellis and Amplitude — North Star Framework (Amplitude blog) — https://amplitude.com/blog/product-north-star-metric

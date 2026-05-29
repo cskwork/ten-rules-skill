@@ -24,5 +24,5 @@ Words are a distinctive asset just like visuals, so the way a brand speaks must 
 
 ## References
 
-- Marty Neumeier — https://www.martyneumeier.com/
-- Simon Sinek — https://simonsinek.com/golden-circle/
+- Marty Neumeier, The Brand Gap — https://www.martyneumeier.com/the-brand-gap
+- Simon Sinek, Start With Why — https://simonsinek.com/books/start-with-why

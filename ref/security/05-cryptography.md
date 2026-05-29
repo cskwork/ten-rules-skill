@@ -5,7 +5,7 @@
 
 ## Why
 
-Cryptographic Failures rank #2 in the OWASP Top 10 (2021) and frequently lead to exposure of passwords, payment data, and personal information. Most failures are misuse, not broken math: missing encryption, weak algorithms, hardcoded keys, or homegrown schemes. Correct use of standard primitives is what protects data in transit and at rest.
+Cryptographic Failures rank #2 in the OWASP Top 10 (2021). Failures here frequently expose passwords, payment data, and personal information. Most failures are misuse, not broken math: missing encryption, weak algorithms, hardcoded keys, or homegrown schemes. Correct use of standard primitives is what protects data in transit and at rest.
 
 ## How to apply
 
@@ -26,5 +26,5 @@ Cryptographic Failures rank #2 in the OWASP Top 10 (2021) and frequently lead to
 
 ## References
 
-- OWASP Top 10 (2021), A02 Cryptographic Failures — https://owasp.org/Top10/2021/A02_2021-Cryptographic_Failures/
-- OWASP Cheat Sheet Series (Cryptographic Storage, Transport Layer) — https://cheatsheetseries.owasp.org/
+- OWASP Top 10, A02 Cryptographic Failures — https://owasp.org/www-project-top-ten/
+- OWASP Cheat Sheet Series (Cryptographic Storage) — https://cheatsheetseries.owasp.org/cheatsheets/Cryptographic_Storage_Cheat_Sheet.html
