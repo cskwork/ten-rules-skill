@@ -1,6 +1,6 @@
 # Rule 08 — Engineer Latency and Cost as First-Class Constraints
 
-> 지연시간과 비용을 처음부터 설계 변수로 다뤄라.
+> 지연 시간과 비용을 처음부터 설계 변수로 다뤄라.
 > Treat latency and cost as first-class design constraints.
 
 ## Why

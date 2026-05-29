@@ -24,5 +24,5 @@ An API is a published promise; consumers couple to its shape, not your implement
 
 ## References
 
-- OpenAPI Initiative — https://www.openapis.org/
+- OpenAPI Specification (current: 3.1.0) — https://spec.openapis.org/oas/latest.html
 - Google API Improvement Proposals — https://google.aip.dev/

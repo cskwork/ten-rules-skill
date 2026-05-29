@@ -24,5 +24,5 @@ The Ehrenberg-Bass Institute's central finding (How Brands Grow) is that brands 
 
 ## References
 
-- Ehrenberg-Bass Institute — https://www.marketingscience.info/
+- Ehrenberg-Bass Institute — https://marketingscience.info/
 - Byron Sharp, How Brands Grow — https://global.oup.com/academic/product/how-brands-grow-9780195573565

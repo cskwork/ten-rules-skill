@@ -5,7 +5,7 @@
 
 ## Why
 
-Net revenue retention (NRR) measures how revenue from an existing cohort changes over a period after expansion, contraction, and churn. Above 100 percent means the base grows on its own, compounding every future cohort and easing the burden on acquisition. Bessemer benchmarks treat NRR of 100 percent as good, 120 percent or more as best, and it is among the strongest drivers of valuation. High NRR also signals durable product value, which validates the LTV assumptions behind every other rule.
+Net revenue retention (NRR) measures how revenue from an existing cohort changes over a period after expansion, contraction, and churn. Above 100 percent means the base grows on its own, compounding every future cohort and easing the burden on acquisition. Bessemer benchmarks treat NRR of 100 percent as the floor separating growth from decay, 110 percent as a solid target for most B2B SaaS, and 120 percent or more as elite — the range achieved by best-in-class companies and a strong driver of premium valuation. High NRR also signals durable product value, which validates the LTV assumptions behind every other rule.
 
 ## How to apply
 
@@ -19,7 +19,7 @@ Net revenue retention (NRR) measures how revenue from an existing cohort changes
 
 - [ ] NRR is computed on a fixed starting cohort
 - [ ] Gross and net retention are both reported
-- [ ] NRR is benchmarked against the 100 to 120 percent range
+- [ ] NRR is benchmarked against the segment-appropriate range (floor 100%, solid 110%+, elite 120%+)
 - [ ] Expansion and contraction are broken out, not netted silently
 - [ ] Involuntary churn is tracked and actively recovered
 

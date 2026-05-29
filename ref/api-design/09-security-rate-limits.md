@@ -24,5 +24,5 @@ An API endpoint is reachable by anyone who finds it, so security cannot be optio
 
 ## References
 
-- OWASP API Security Top 10 — https://owasp.org/API-Security/
+- OWASP API Security Top 10 (2023) — https://owasp.org/www-project-api-security/
 - Microsoft REST API Guidelines — https://github.com/microsoft/api-guidelines

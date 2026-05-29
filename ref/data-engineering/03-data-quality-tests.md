@@ -15,6 +15,7 @@ Code has compilers and unit tests; data has neither unless you add them. Great E
 - Gate the pipeline: a failed critical test halts promotion to the next layer, it does not just log a warning.
 - Concentrate tests on high-business-value columns first rather than testing everything thinly.
 - Quarantine bad rows instead of dropping them silently, so failures are auditable.
+- For complex SQL transforms, add dbt unit tests (dbt v1.8+) that validate logic against static mock inputs in CI before any data is materialized; these catch logic errors that data-property tests cannot.
 
 ## Checklist
 
@@ -28,3 +29,4 @@ Code has compilers and unit tests; data has neither unless you add them. Great E
 
 - Great Expectations — https://greatexpectations.io/
 - dbt tests — https://docs.getdbt.com/docs/build/data-tests
+- dbt unit tests (v1.8+) — https://docs.getdbt.com/docs/build/unit-tests

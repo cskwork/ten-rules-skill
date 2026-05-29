@@ -5,7 +5,7 @@
 
 ## Why
 
-Hardcoded credentials are among the most common and most damaging real-world breaches, and they fall under OWASP Top 10 (2021) A05 Security Misconfiguration. A secret committed to a repository is effectively public the moment it is pushed, since history persists. NIST SSDF (SP 800-218) treats protecting credentials as a core "Protect the Software" practice.
+Hardcoded credentials are among the most common and most damaging real-world breaches, and they fall under OWASP Top 10 A05 Security Misconfiguration (2021). A secret committed to a repository is effectively public the moment it is pushed, since history persists. NIST SSDF (SP 800-218) treats protecting credentials as a core "Protect the Software" practice.
 
 ## How to apply
 
@@ -26,5 +26,5 @@ Hardcoded credentials are among the most common and most damaging real-world bre
 
 ## References
 
-- OWASP Top 10 (2021), A05 Security Misconfiguration — https://owasp.org/Top10/2021/A05_2021-Security_Misconfiguration/
+- OWASP Top 10, A05 Security Misconfiguration — https://owasp.org/www-project-top-ten/
 - NIST SSDF SP 800-218 — https://csrc.nist.gov/projects/ssdf

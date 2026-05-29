@@ -5,7 +5,7 @@
 
 ## Why
 
-Broken Access Control is ranked #1 in the OWASP Top 10 (2021), with more contributing weaknesses than any other category. When a user can act outside their intended permissions, every other control becomes bypassable. This is the single highest-impact, most common real-world web vulnerability.
+Broken Access Control is ranked #1 in the OWASP Top 10 (2021) with more contributing weaknesses than any other category. SSRF (Server-Side Request Forgery) is a closely related flaw that enables access-control bypass by having the server make unauthorized requests on behalf of an attacker. When a user can act outside their intended permissions, every other control becomes bypassable. This is the single highest-impact, most common real-world web vulnerability.
 
 ## How to apply
 
@@ -26,5 +26,5 @@ Broken Access Control is ranked #1 in the OWASP Top 10 (2021), with more contrib
 
 ## References
 
-- OWASP Top 10 (2021), A01 Broken Access Control — https://owasp.org/Top10/2021/A01_2021-Broken_Access_Control/
+- OWASP Top 10, A01 Broken Access Control — https://owasp.org/www-project-top-ten/
 - OWASP ASVS — https://owasp.org/www-project-application-security-verification-standard/

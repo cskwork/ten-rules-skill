@@ -1,11 +1,11 @@
 # Rule 10 — Enforce LTV/CAC Discipline
 
-> 고객 한 명을 버는 비용보다 더 많이 벌어야 성장은 지속된다.
+> 고객 한 명을 획득하는 비용보다 더 많이 벌어야 성장은 지속된다.
 > Growth is only sustainable when a customer is worth more than it costs to acquire.
 
 ## Why
 
-Unit economics decide whether growth builds a business or burns cash. The widely used SaaS benchmark is an LTV:CAC ratio around 3:1, with payback ideally inside 12 months; far below 3:1 means acquisition is unprofitable, and far above can mean underinvestment in growth. Reforge stresses that CAC is largely structural to your business model, not just an ad-tuning problem, and that improving retention raises LTV and thus your allowable CAC. Track these by cohort and channel before scaling spend.
+Unit economics decide whether growth builds a business or burns cash. The widely used SaaS benchmark is an LTV:CAC ratio around 3:1, with payback ideally inside 12 months for SMB and inside 18 months for mid-market; far below 3:1 means acquisition is unprofitable, and far above can mean underinvestment in growth. Reforge stresses that CAC is largely structural to your business model, not just an ad-tuning problem, and that improving retention raises LTV and thus your allowable CAC. Track these by cohort and channel before scaling spend.
 
 ## How to apply
 

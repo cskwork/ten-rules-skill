@@ -24,5 +24,5 @@ Marty Neumeier (The Brand Gap) defines a brand as a customer's gut feeling about
 
 ## References
 
-- Marty Neumeier — https://www.martyneumeier.com/the-brand-gap
-- David Aaker — https://prophet.com/thinking/aaker/
+- Marty Neumeier, The Brand Gap — https://www.martyneumeier.com/the-brand-gap
+- David Aaker, Building Strong Brands — https://prophet.com/thinking/aaker/

@@ -24,5 +24,5 @@ Consumers integrate against your documentation, not your source code, so gaps an
 
 ## References
 
-- OpenAPI Specification — https://spec.openapis.org/
+- OpenAPI Specification (current: 3.1.0) — https://spec.openapis.org/oas/latest.html
 - Google API Improvement Proposals — https://google.aip.dev/

@@ -25,5 +25,5 @@ Eric Ries's Lean Startup defines the MVP as the smallest thing that yields valid
 
 ## References
 
-- The Lean Startup (Eric Ries) — http://theleanstartup.com/
+- The Lean Startup (Eric Ries) — https://theleanstartup.com/
 - SVPG — Product Roadmaps — https://www.svpg.com/

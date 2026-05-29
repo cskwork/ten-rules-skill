@@ -1,6 +1,6 @@
 # Rule 04 — Govern Interfaces with Data Contracts
 
-> 생산자와 소비자 사이의 데이터 인터페이스를 계약으로 못박아라.
+> 생산자와 소비자 사이의 데이터 인터페이스를 계약으로 못 박아라.
 > Pin the data interface between producer and consumer with a contract.
 
 ## Why
@@ -25,5 +25,5 @@ Most data incidents start as an unannounced upstream change: a renamed column, a
 
 ## References
 
-- dbt model contracts — https://docs.getdbt.com/docs/collaborate/govern/model-contracts
+- dbt model contracts — https://docs.getdbt.com/docs/mesh/govern/model-contracts
 - Data Mesh (Martin Fowler) — https://martinfowler.com/articles/data-mesh-principles.html
