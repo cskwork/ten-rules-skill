@@ -25,4 +25,4 @@ Systems fail not only from bugs but from running out of headroom. The Google SRE
 ## References
 
 - Google SRE — Addressing Cascading Failures — https://sre.google/sre-book/addressing-cascading-failures/
-- Google SRE — Software Engineering in SRE (capacity) — https://sre.google/sre-book/
+- Google SRE — Handling Overload — https://sre.google/sre-book/handling-overload/

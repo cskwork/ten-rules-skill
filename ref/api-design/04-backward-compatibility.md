@@ -11,7 +11,7 @@ Once an API has consumers you cannot see their release schedules, so any breakin
 
 - Add only optional fields and new endpoints; never add a required request field to an existing call.
 - Never remove, rename, or change the type or semantics of an existing field.
-- Tolerate unknown fields on input (be liberal in what you accept) to allow forward compatibility.
+- Silently ignore unknown fields on input (do not reject requests for unrecognized properties) to allow forward compatibility; still validate all known fields strictly.
 - Always return a JSON object (not a bare array) at the top level so it can be extended later.
 - Treat any incompatible change as requiring a new version, not an in-place edit (see Rule 05).
 

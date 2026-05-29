@@ -5,7 +5,7 @@
 
 ## Why
 
-Vulnerable and Outdated Components rank #6 in the OWASP Top 10 (2021), and the next entry, A08 Software and Data Integrity Failures, covers compromised build pipelines and untrusted updates. Modern apps are mostly third-party code, so an unpatched library or poisoned package becomes your vulnerability. NIST SSDF (SP 800-218) makes provenance and integrity a core practice.
+Vulnerable and Outdated Components rank #6 in the OWASP Top 10 (2021). Modern apps are mostly third-party code, so an unpatched library or poisoned package becomes your vulnerability. Supply-chain attacks (e.g., SolarWinds, event-stream) show that the threat extends beyond known CVEs to malicious code introduced through dependencies or build pipelines. NIST SSDF (SP 800-218) makes provenance and integrity a core practice.
 
 ## How to apply
 
@@ -26,5 +26,5 @@ Vulnerable and Outdated Components rank #6 in the OWASP Top 10 (2021), and the n
 
 ## References
 
-- OWASP Top 10 (2021), A06 Vulnerable and Outdated Components — https://owasp.org/Top10/2021/A06_2021-Vulnerable_and_Outdated_Components/
+- OWASP Top 10, A06 Vulnerable and Outdated Components — https://owasp.org/www-project-top-ten/
 - NIST SSDF SP 800-218 — https://csrc.nist.gov/projects/ssdf

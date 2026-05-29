@@ -5,7 +5,7 @@
 
 ## Why
 
-Jakob Nielsen's 10 Usability Heuristics (Nielsen Norman Group, 1994/updated) are the field's default inspection standard for surfacing problems without a full user test. They cover visibility of system status, match to the real world, user control and freedom, consistency, error prevention, recognition over recall, flexibility, minimalist design, helping users recover from errors, and help and documentation. A heuristic evaluation complements, not replaces, user testing.
+Jakob Nielsen's 10 Usability Heuristics (first published 1994; last substantively updated by NN/G in 2020) are the field's default inspection standard for surfacing problems without a full user test. They cover visibility of system status, match to the real world, user control and freedom, consistency, error prevention, recognition over recall, flexibility, minimalist design, helping users recover from errors, and help and documentation. A heuristic evaluation complements, not replaces, user testing.
 
 ## How to apply
 

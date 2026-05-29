@@ -1,6 +1,6 @@
 # Data Privacy and Compliance — 10 Rules (index)
 
-Source: market-researched synthesis grounded in GDPR Article 5 principles, Ann Cavoukian's Privacy by Design (7 foundational principles), the NIST Privacy Framework, ISO/IEC 27701, and the Korea PIPA and California CCPA/CPRA regimes. Data privacy and compliance is the practice of collecting, using, securing, and disposing of personal data so that it is lawful, minimal, purpose-bound, secure, and accountable to the people it describes. This is operational and engineering guidance, not legal advice; confirm specifics with counsel.
+Source: market-researched synthesis grounded in GDPR Article 5 principles, Ann Cavoukian's Privacy by Design (7 foundational principles), the NIST Privacy Framework, ISO/IEC 27701, the Korea PIPA (including 2025 portability amendments), and the California CCPA/CPRA regimes; cross-border transfer guidance reflects the EU-US Data Privacy Framework (DPF, July 2023). Data privacy and compliance is the practice of collecting, using, securing, and disposing of personal data so that it is lawful, minimal, purpose-bound, secure, and accountable to the people it describes. This is operational and engineering guidance, not legal advice; confirm specifics with counsel.
 
 Pick the rules that bear on the task, then open those files for the full Why / How / Checklist.
 

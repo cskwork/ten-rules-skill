@@ -26,5 +26,5 @@ Every injection, XSS, and deserialization flaw traces back to untrusted data tre
 
 ## References
 
-- OWASP Top 10 (2021) — https://owasp.org/Top10/2021/
-- OWASP Cheat Sheet Series (Input Validation) — https://cheatsheetseries.owasp.org/
+- OWASP Top 10 — https://owasp.org/www-project-top-ten/
+- OWASP Cheat Sheet Series (Input Validation) — https://cheatsheetseries.owasp.org/cheatsheets/Input_Validation_Cheat_Sheet.html

@@ -24,5 +24,5 @@ Dave McClure's Pirate Metrics (AARRR) gives a shared map of the customer lifecyc
 
 ## References
 
-- Dave McClure, Startup Metrics for Pirates (AARRR) — https://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-nov-2012
+- Dave McClure, Startup Metrics for Pirates (AARRR) — https://www.slideshare.net/slideshow/startup-metrics-for-pirates-long-version/89026
 - Amplitude — https://amplitude.com/blog/pirate-metrics-framework

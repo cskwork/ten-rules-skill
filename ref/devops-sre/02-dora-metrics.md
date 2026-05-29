@@ -5,7 +5,7 @@
 
 ## Why
 
-Gut feel is not a strategy. The DORA / Accelerate research (Nicole Forsgren et al.) found four metrics that statistically predict software delivery and organizational performance: deployment frequency, lead time for changes, change failure rate, and failed-deployment recovery time. Velocity and stability are not a trade-off; elite teams improve both together. DORA has since added a reliability metric, but the four keys remain the durable baseline.
+Gut feel is not a strategy. The DORA / Accelerate research (Nicole Forsgren et al.) found four metrics that statistically predict software delivery and organizational performance: deployment frequency, lead time for changes, change failure rate, and failed-deployment recovery time. Velocity and stability are not a trade-off; elite teams improve both together. DORA has since added reliability (meeting SLO targets) as a fifth key, and the 2024 report introduced rework rate as a stability measure alongside change failure rate.
 
 ## How to apply
 
@@ -17,12 +17,13 @@ Gut feel is not a strategy. The DORA / Accelerate research (Nicole Forsgren et a
 
 ## Checklist
 
-- [ ] All four DORA keys are collected automatically from tooling
+- [ ] The four core DORA keys are collected automatically from tooling (add reliability and rework rate if tooling supports them)
 - [ ] Deployment frequency and lead time are reviewed alongside change failure rate and recovery time
 - [ ] The team knows its current performance band and its target
 - [ ] Metric movements drive a concrete improvement action, not just a dashboard
 
 ## References
 
-- DORA — Software Delivery Performance Metrics — https://dora.dev/guides/dora-metrics-four-keys/
+- DORA — Software Delivery Performance Metrics — https://dora.dev/guides/dora-metrics/
+- DORA — History of DORA's metrics (five keys, rework rate) — https://dora.dev/insights/dora-metrics-history/
 - Google Cloud — Using the Four Keys — https://cloud.google.com/blog/products/devops-sre/using-the-four-keys-to-measure-your-devops-performance

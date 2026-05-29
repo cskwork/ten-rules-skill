@@ -25,4 +25,4 @@ Without a measurable eval suite you are tuning prompts and models on vibes, and 
 ## References
 
 - Google Rules of Machine Learning — https://developers.google.com/machine-learning/guides/rules-of-ml
-- OpenAI Prompt Engineering Guide — https://platform.openai.com/docs/guides/prompt-engineering
+- OpenAI Evals Guide — https://platform.openai.com/docs/guides/evals

@@ -26,4 +26,4 @@ Dave McClure's Pirate Metrics (AARRR: Acquisition, Activation, Retention, Referr
 ## References
 
 - Amplitude — Pirate Metrics (AARRR) — https://amplitude.com/blog/pirate-metrics-framework
-- 500 Global (Dave McClure) — https://500.co/
+- Dave McClure — "Startup Metrics for Pirates" (2007) — https://500hats.typepad.com/500blogs/2007/09/startup-metrics.html

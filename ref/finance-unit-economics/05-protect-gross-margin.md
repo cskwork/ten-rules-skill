@@ -25,5 +25,5 @@ Gross margin (revenue minus cost of goods sold, as a percent) sets the ceiling o
 
 ## References
 
-- Bessemer Venture Partners, cloud metrics — https://www.bvp.com/atlas/cloud-computing-metrics
-- Corporate Finance Institute — https://corporatefinanceinstitute.com/
+- Bessemer Venture Partners Atlas — https://www.bvp.com/atlas
+- Corporate Finance Institute, "Gross Margin" — https://corporatefinanceinstitute.com/resources/accounting/gross-margin/
