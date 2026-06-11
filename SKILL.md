@@ -1,6 +1,6 @@
 ---
 name: ten-rules
-description: Routes a task to the matching "10 rules" reference set, reads only the rules that bear on it, and works against their checklists. Covers 17 cross-cutting disciplines (web-design, communication, investment, planning, coding, api-design, data-engineering, security, devops-sre, ai-engineering, product-management, ux-research, growth-marketing, seo, finance-unit-economics, brand-identity, data-privacy-legal) plus 22 industry verticals for building sites or software in a specific industry (e-commerce, edtech, media-streaming, gaming, social, enterprise-data, manufacturing, logistics, b2b-saas, iot, energy, fintech, healthcare, insurance, govtech, travel/aviation, martech, proptech, mobility, telecom, hrtech, nonprofit). Use when work in any of these should meet a defined standard, or the user says "apply the 10 rules" / names a set. Index: https://cskwork.github.io/ten-rules-skill/
+description: "Route tasks to cskwork 10-rules references across core disciplines, builder-stack domains, and industry verticals. Use when the user asks to apply/follow the 10 rules or names a rule set."
 ---
 
 # Ten Rules
