@@ -1,13 +1,13 @@
 ---
 name: ten-rules
-description: "Route tasks to cskwork 10-rules references across core disciplines, builder-stack domains, and industry verticals. Use when the user asks to apply/follow the 10 rules or names a rule set."
+description: "Routes a task to the matching cskwork '10 rules' reference set in ref/ and applies only the rules that bear on it. Use when the user asks to apply the 10 rules, names a rule set, or starts work in a covered domain: web-design, communication, investment, planning, coding, api-design, data-engineering, security, devops-sre, ai-engineering, product-management, ux-research, growth-marketing, seo, finance-unit-economics, brand-identity, data-privacy-legal, ecommerce-retail, edtech-learning, media-streaming, gaming-liveops, social-community, enterprise-data-platform, manufacturing-industrial, logistics-supply-chain, b2b-saas, iot-connected-devices, energy-utilities, fintech-banking, healthcare-digital-health, insurance-insurtech, govtech-public-sector, travel-hospitality-aviation, martech-adtech, real-estate-proptech, mobility-transportation, telecom-connectivity, hrtech-recruiting, nonprofit-civic."
 ---
 
 # Ten Rules
 
 A router over thirty-nine "10 rules" reference sets in `ref/` — seventeen cross-cutting disciplines
 plus twenty-two industry verticals. Before doing the work, load the rules that match the task, apply
-their checklists, then execute — do not skip straight to output.
+their checklists, then execute.
 
 ## 1. Route the task
 
@@ -74,38 +74,21 @@ No domain matches → this skill does not apply; proceed normally.
 
 ## 2. Apply (same for every domain)
 
-1. Read the domain `INDEX.md`. Pick the 1–5 rules that actually bear on **this** task — not all ten.
+1. Read the domain `INDEX.md`. Pick the 1–5 rules that actually bear on **this** task.
 2. Read only those full rule files (each has Why / How to apply / Checklist).
 3. Before producing output, state in one line each which rules you are applying and why.
 4. Do the work so it satisfies every selected rule's checklist.
-5. Self-check against those checklists. Fix gaps before claiming done.
+5. Self-check: walk every item on those checklists, name each gap, and fix it before claiming done.
 
 ## 3. Notes
 
-- **Progressive**: INDEX first, then specific rule files. Never dump all rules into context.
 - **investment** has overlays — load `kr-equity/` only for Korean (KOSPI/KOSDAQ) stocks, and
   `quant-bot/` only for an automated/agentic trading system.
 - **coding** duplicates the Ten Commandments already in `~/.claude/CLAUDE.md`. Skip it unless the
   user explicitly asks, or you are running outside Claude Code (e.g. Codex/Gemini) without those rules.
-- The five core sets are vendored snapshots of upstream repos — refresh with `scripts/refresh.sh`.
-  The twelve builder-stack sets and the twenty-two industry verticals are authored in-repo from the
-  authorities cited in each rule's References; `refresh.sh` does not touch them.
-
-## Source repos
-
-Core sets — web-design · communication · investment · planning · coding — vendored from
-`github.com/cskwork/{web-design-10-rules, communication-10-rules, investment-agent-rules, planning-doc-rules, coding-agent-rules}`.
-
-Builder stack — api-design · data-engineering · security · devops-sre · ai-engineering ·
-product-management · ux-research · growth-marketing · seo · finance-unit-economics ·
-brand-identity · data-privacy-legal — authored in-repo from recognized authorities (OWASP, Google
-SRE/AIP, NIST, Kimball, Nielsen Norman, GDPR, et al.) cited in each rule's References.
-
-Industry verticals — ecommerce-retail · edtech-learning · media-streaming · gaming-liveops ·
-social-community · enterprise-data-platform · manufacturing-industrial · logistics-supply-chain ·
-b2b-saas · iot-connected-devices · energy-utilities · fintech-banking · healthcare-digital-health ·
-insurance-insurtech · govtech-public-sector · travel-hospitality-aviation · martech-adtech ·
-real-estate-proptech · mobility-transportation · telecom-connectivity · hrtech-recruiting ·
-nonprofit-civic — authored in-repo from each industry's recognized books and standards (Baymard,
-Mayer, Kleppmann, ISA-95, HL7 FHIR, PCI-DSS, IATA NDC, GOV.UK Service Standard, et al.) cited in
-each rule's References.
+- The five core sets are vendored snapshots of `github.com/cskwork/{web-design-10-rules,
+  communication-10-rules, investment-agent-rules, planning-doc-rules, coding-agent-rules}` — refresh
+  with `scripts/refresh.sh`. The twelve builder-stack sets and the twenty-two industry verticals are
+  authored in-repo from recognized authorities (OWASP, Google SRE/AIP, NIST, Kimball, Nielsen Norman,
+  GDPR, Baymard, Mayer, Kleppmann, ISA-95, HL7 FHIR, PCI-DSS, IATA NDC, GOV.UK Service Standard, et
+  al.) cited in each rule's References; `refresh.sh` does not touch them.
