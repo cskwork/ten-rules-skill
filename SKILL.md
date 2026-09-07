@@ -1,6 +1,6 @@
 ---
 name: ten-rules
-description: "Routes a task to the matching cskwork '10 rules' reference set in ref/ and applies only the rules that bear on it. Use when the user asks to apply the 10 rules, names a rule set, or starts work in a covered domain: web-design, communication, investment, planning, coding, api-design, data-engineering, security, devops-sre, ai-engineering, product-management, ux-research, growth-marketing, seo, finance-unit-economics, brand-identity, data-privacy-legal, ecommerce-retail, edtech-learning, media-streaming, gaming-liveops, social-community, enterprise-data-platform, manufacturing-industrial, logistics-supply-chain, b2b-saas, iot-connected-devices, energy-utilities, fintech-banking, healthcare-digital-health, insurance-insurtech, govtech-public-sector, travel-hospitality-aviation, martech-adtech, real-estate-proptech, mobility-transportation, telecom-connectivity, hrtech-recruiting, nonprofit-civic."
+description: "Apply the cskwork 10-rules reference sets when the user asks for them or names a rule set. Route to the relevant domain and load only rules that affect the task; ordinary work in a listed domain does not require this router."
 ---
 
 # Ten Rules
@@ -12,7 +12,7 @@ their checklists, then execute.
 ## 1. Route the task
 
 Match the strongest signal to a domain. If several apply (e.g. an LLM product launch page =
-ai-engineering + web-design + growth-marketing), load each one's index.
+ai-engineering + web-design + growth-marketing), start with the strongest domain; load another index only for a distinct requirement.
 
 **Core sets**
 
@@ -76,8 +76,8 @@ No domain matches → this skill does not apply; proceed normally.
 
 1. Read the domain `INDEX.md`. Pick the 1–5 rules that actually bear on **this** task.
 2. Read only those full rule files (each has Why / How to apply / Checklist).
-3. Before producing output, state in one line each which rules you are applying and why.
-4. Do the work so it satisfies every selected rule's checklist.
+3. Mention selected rules only when they explain a material decision or the user requested an audit.
+4. Apply the relevant checklist items within the user's requested scope; do not turn an example or general rule into unrequested work.
 5. Self-check: walk every item on those checklists, name each gap, and fix it before claiming done.
 
 ## 3. Notes
